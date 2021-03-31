@@ -1,0 +1,4 @@
+line pertama
+second baris
+baris ketiga
+fourth line
